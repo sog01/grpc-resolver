@@ -1,0 +1,2 @@
+# GRPC Resolver
+This resolver act as grpc client resolver. You don't need manually create grpc client from zero !. Only using this library you can resolve all grpc handler based on *.proto files. This project is still on development phase. It's far away from production ready. Therefore, don't hesistate to put any ideas or advice in issues section to improve this project better. (using [grpcurl](https://github.com/fullstorydev/grpcurl) for core engine) 
